@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo1\obj\Debug\Ejemplo1.pdb

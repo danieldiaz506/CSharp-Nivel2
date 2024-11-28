@@ -1,0 +1,33 @@
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Appliation with DB.exe.config
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Appliation with DB.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Appliation with DB.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation_with_DB.FrmPrincipal.resources
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation_with_DB.Properties.Resources.resources
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Dominio.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Negocio.dll
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Dominio.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Negocio.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.CopyComplete
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation_with_DB.FrmAgregar.resources
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Appliation with DB.exe.config
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Appliation with DB.exe
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Appliation with DB.pdb
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Dominio.dll
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Negocio.dll
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Dominio.pdb
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\bin\Debug\Negocio.pdb
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation_with_DB.FrmAgregar.resources
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation_with_DB.FrmPrincipal.resources
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation_with_DB.Properties.Resources.resources
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.exe
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliation with DB.pdb
+C:\Users\danie\Desktop\C# Nivel 2\App DB\Appliation with DB\obj\Debug\Appliati.CEB64AFB.Up2Date

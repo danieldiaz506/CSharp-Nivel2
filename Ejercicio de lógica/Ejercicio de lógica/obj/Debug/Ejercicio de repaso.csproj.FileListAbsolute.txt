@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\bin\Debug\Ejercicio de repaso.exe.config
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\bin\Debug\Ejercicio de repaso.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\bin\Debug\Ejercicio de repaso.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.pdb
+C:\Users\danie\Desktop\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\bin\Debug\Ejercicio de repaso.exe.config
+C:\Users\danie\Desktop\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\bin\Debug\Ejercicio de repaso.exe
+C:\Users\danie\Desktop\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\bin\Debug\Ejercicio de repaso.pdb
+C:\Users\danie\Desktop\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.exe
+C:\Users\danie\Desktop\C# Nivel 2\Ejercicio de repaso\Ejercicio de repaso\obj\Debug\Ejercicio de repaso.pdb

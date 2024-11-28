@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\bin\Debug\Ejemplo3Phone.exe.config
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\bin\Debug\Ejemplo3Phone.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\bin\Debug\Ejemplo3Phone.pdb
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\obj\Debug\Ejemplo3Phone.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\obj\Debug\Ejemplo3Phone.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\obj\Debug\Ejemplo3Phone.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\obj\Debug\Ejemplo3Phone.exe
+C:\Users\danie\OneDrive\Escritorio\C# Nivel 2\POO\Ejemplo3Phone\obj\Debug\Ejemplo3Phone.pdb

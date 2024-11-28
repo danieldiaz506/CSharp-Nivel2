@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1943D945-88EC-41A6-A2C0-146B4F6D8913}|AplicacionFinal\\AplicacionFinal.csproj|c:\\users\\danie\\desktop\\c# nivel 2\\tpfinalnivel2_diaz\\tpfinalnivel2_diaz\\aplicacionfinal\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1943D945-88EC-41A6-A2C0-146B4F6D8913}|AplicacionFinal\\AplicacionFinal.csproj|solutionrelative:aplicacionfinal\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1943D945-88EC-41A6-A2C0-146B4F6D8913}|AplicacionFinal\\AplicacionFinal.csproj|C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\aplicacionfinal\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1943D945-88EC-41A6-A2C0-146B4F6D8913}|AplicacionFinal\\AplicacionFinal.csproj|solutionrelative:aplicacionfinal\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6476F846-CE26-47EF-BBD3-0C2E450044FB}|Dominio\\Dominio.csproj|C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6476F846-CE26-47EF-BBD3-0C2E450044FB}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0BB065-3299-4BC8-8B4F-EF4C5287A513}|Negocio\\Negocio.csproj|C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0BB065-3299-4BC8-8B4F-EF4C5287A513}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:32:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:30:05.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\AplicacionFinal\\FrmArticulos.cs",
+              "RelativeDocumentMoniker": "AplicacionFinal\\FrmArticulos.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\AplicacionFinal\\FrmArticulos.cs",
+              "RelativeToolTip": "AplicacionFinal\\FrmArticulos.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:29:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmArticulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\AplicacionFinal\\FrmArticulos.cs",
+              "RelativeDocumentMoniker": "AplicacionFinal\\FrmArticulos.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\TPFinalNivel2_Diaz\\TPFinalNivel2_Diaz\\AplicacionFinal\\FrmArticulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionFinal\\FrmArticulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:29:14.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

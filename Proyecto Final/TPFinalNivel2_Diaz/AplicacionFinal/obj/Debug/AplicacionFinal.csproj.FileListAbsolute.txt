@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\bin\Debug\AplicacionFinal.exe.config
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\bin\Debug\AplicacionFinal.exe
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\bin\Debug\AplicacionFinal.pdb
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\bin\Debug\Dominio.dll
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\bin\Debug\Negocio.dll
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\bin\Debug\Dominio.pdb
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\bin\Debug\Negocio.pdb
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.Properties.Resources.resources
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.csproj.CopyComplete
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.exe
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.pdb
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.FrmPrincipal.resources
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.FrmArticulos.resources
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\AplicacionFinal\obj\Debug\AplicacionFinal.FrmDetalle.resources

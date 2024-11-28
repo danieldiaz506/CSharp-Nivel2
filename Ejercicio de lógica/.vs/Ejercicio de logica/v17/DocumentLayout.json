@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\Ejercicio de l\u00F3gica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048FD9CD-D297-4AF9-B4CA-E0C3A39721D0}|Ejercicio de repaso\\Ejercicio de l\u00F3gica.csproj|c:\\users\\danie\\desktop\\c# nivel 2\\ejercicio de l\u00F3gica\\ejercicio de repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048FD9CD-D297-4AF9-B4CA-E0C3A39721D0}|Ejercicio de repaso\\Ejercicio de l\u00F3gica.csproj|solutionrelative:ejercicio de repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\Ejercicio de l\u00F3gica\\Ejercicio de repaso\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio de repaso\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\C# Nivel 2\\Ejercicio de l\u00F3gica\\Ejercicio de repaso\\Program.cs",
+              "RelativeToolTip": "Ejercicio de repaso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:51:04.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

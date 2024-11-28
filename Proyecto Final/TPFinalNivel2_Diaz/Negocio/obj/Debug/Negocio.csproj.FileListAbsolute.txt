@@ -1,0 +1,9 @@
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\bin\Debug\Negocio.dll
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\bin\Debug\Negocio.pdb
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\bin\Debug\Dominio.dll
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\bin\Debug\Dominio.pdb
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\obj\Debug\Negocio.dll
+C:\Users\danie\Desktop\C# Nivel 2\TPFinalNivel2_Diaz\TPFinalNivel2_Diaz\Negocio\obj\Debug\Negocio.pdb
